@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 81dd8b65c8d6f98408e4cc59f6077b3f
+  - enabled: 1
+    path: Assets/Scenes/Names.unity
+    guid: 57ef92c4dd9278d4b95edc959edf3d77
+  - enabled: 1
+    path: Assets/Scenes/GameMaster.unity
+    guid: 5dc20a98bb9576f4381547a60d252841
+  - enabled: 1
+    path: Assets/Scenes/Confirm.unity
+    guid: a98378bb6c7231744a736a17d672ef3f
+  - enabled: 1
+    path: Assets/Scenes/TalkTime.unity
+    guid: abf826850a783704ea1935dde7dd5826
+  - enabled: 1
+    path: Assets/Scenes/VoteFox.unity
+    guid: 74ac39e89fcd1974f84d33d4e94e8a5b
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/9c3d1d9f82d527346922f5768c476124
+    guid: 9c3d1d9f82d527346922f5768c476124
+  - enabled: 1
+    path: Assets/Scenes/FoxChanceGM.unity
+    guid: 78982f6d5307cf74a98e61fb766b82cc
+  - enabled: 1
+    path: Assets/Scenes/FoxChance.unity
+    guid: 7ab2d22c822699e4ab7539dfa2200c3f
+  - enabled: 1
+    path: Assets/Scenes/VoteWolf.unity
+    guid: ede2c278824908c4aa0cb4ecdb6d848e
+  - enabled: 1
+    path: Assets/Scenes/WolfChance.unity
+    guid: 3970d665a79836b47b1227ea2ccc1e5b
+  - enabled: 1
+    path: Assets/Scenes/WolfChanceGM.unity
+    guid: b030fafe77dd5674d9e0a52cfed34a1b
+  - enabled: 1
+    path: Assets/Scenes/Result0.unity
+    guid: 2871df7def677224cbf75a1b8325b14f
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 419d17008a448214f9144b86895a800d
+  - enabled: 1
+    path: Assets/Scenes/Howto.unity
+    guid: df86695530a3a954990f57be6af9b427
+  m_configObjects: {}
